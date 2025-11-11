@@ -1,3 +1,6 @@
+# macOS system files
+.DS_Store
+
 # Challenge files in root directory
 /*.pdf
 /*.csv
